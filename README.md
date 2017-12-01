@@ -6,3 +6,6 @@ A really tiny Pong game developed in about an hour using the Tkinter library
 ```
 python3 pong.py
 ```
+
+# Auteur
+[Jaaber]
