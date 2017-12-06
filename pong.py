@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
 ##################################################
 #####Pong game in Python using Tkinter library####
 ##################################################
@@ -81,4 +80,6 @@ def update():
 # Ajouter tout les elements au Canvas et afficher le tout
 canvas.pack()
 window.after(100,update)
+for i in range(0,100):
+	print "salut Math bise Lore && Pierre"
 window.mainloop()
