@@ -81,5 +81,5 @@ def update():
 canvas.pack()
 window.after(100,update)
 for i in range(0,100):
-	print "salut Math bise Lore && Pierre"
+	print " coucou pierre et Lore ! bise ;) "
 window.mainloop()
